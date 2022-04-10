@@ -72,6 +72,6 @@ Run `npm start` to start the server in prod mode.
 
 7. Navigate to http://localhost:5000 or use Postman/Insomia.
 
-- Version: 1.0.0
+- Version: 0.1.0
 - License: MIT
-- Chris Mazur (@chmazur)
+- Chris Mazur / mate.dev
