@@ -4,7 +4,7 @@
 
 # Node.js with MongoDB and Docker
 
-Backend API for a community platform project
+Backend API for a CFP community platform project
 
 ### Starting the Application with Docker Containers:
 
@@ -74,3 +74,4 @@ Run `npm start` to start the server in prod mode.
 
 - Version: 1.0.0
 - License: MIT
+- Chris Mazur (@chmazur)
