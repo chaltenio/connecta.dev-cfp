@@ -48,11 +48,11 @@ Backend API for a community platform project
 
 If you want to install the latest version of NodeJS in Ubuntu, please see the following steps:
 
-$ curl -s https://deb.nodesource.com/setup_16.x | sudo bash
-$ sudo apt install nodejs -y
-$ node -v
-$ curl -L https://npmjs.org/install.sh | sudo sh
-$ npm -v
+`$ curl -s https://deb.nodesource.com/setup_16.x | sudo bash`
+`$ sudo apt install nodejs -y`
+`$ node -v`
+`$ curl -L https://npmjs.org/install.sh | sudo sh`
+`$ npm -v`
 
 3. Open `config/config.env.env` and adjust the values/setting to your own. Rename "config/config.env.env" to "config/config.env".
 
