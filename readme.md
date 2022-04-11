@@ -1,10 +1,10 @@
 # ConnectaCFP API
 
-> Backend API 
+> Backend API
 
 # Node.js with MongoDB and Docker
 
-Backend API for a CFP community platform project
+Backend API for a CFP community platform project developed by www.connecta.dev
 
 ### Starting the Application with Docker Containers:
 
@@ -75,3 +75,4 @@ Run `npm start` to start the server in prod mode.
 - Version: 0.1.0
 - License: MIT
 - Chris Mazur / mate.dev
+
