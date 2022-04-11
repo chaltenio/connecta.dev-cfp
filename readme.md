@@ -1,10 +1,10 @@
-# Node API Lab
+# ConnectaCFP API
 
-> Backend API 
+> Backend API
 
 # Node.js with MongoDB and Docker
 
-Backend API for a community platform project
+Backend API for a CFP community platform project developed by www.connecta.dev
 
 ### Starting the Application with Docker Containers:
 
@@ -46,6 +46,18 @@ Backend API for a community platform project
 
 2. Install the LTS version of Node.js (http://nodejs.org).
 
+If you want to install the latest version of NodeJS in Ubuntu, please see the following steps:
+
+`$ curl -s https://deb.nodesource.com/setup_16.x | sudo bash`
+
+`$ sudo apt install nodejs -y`
+
+`$ node -v`
+
+`$ curl -L https://npmjs.org/install.sh | sudo sh`
+
+`$ npm -v`
+
 3. Open `config/config.env.env` and adjust the values/setting to your own. Rename "config/config.env.env" to "config/config.env".
 
 4. Install Dependencies. Run `npm install`.
@@ -60,5 +72,7 @@ Run `npm start` to start the server in prod mode.
 
 7. Navigate to http://localhost:5000 or use Postman/Insomia.
 
-- Version: 1.0.0
+- Version: 0.1.0
 - License: MIT
+- Chris Mazur / mate.dev
+
